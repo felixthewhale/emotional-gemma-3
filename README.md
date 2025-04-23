@@ -7,6 +7,9 @@ base_model:
 ---
 # Emotional-Gemma-3-1B (Emma-3-1B): Emotionally Modulated Gemma-3
 
+Model weights: https://huggingface.co/FelixTheWhale/Emotional-Gemma-3-1B
+FelixTheWhale/Emotional-Gemma-3-1B
+
 * This model in its current state is not suitable for any meaningful chat, it's just an experiment*
 
 ## Model Description
